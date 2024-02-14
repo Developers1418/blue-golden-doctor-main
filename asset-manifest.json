@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blue-golden-doctor-main/static/css/main.4cd761ec.css",
+    "main.css": "/blue-golden-doctor-main/static/css/main.900e4c1c.css",
     "main.js": "/blue-golden-doctor-main/static/js/main.ecf588d6.js",
     "static/js/592.eee76cb3.chunk.js": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js",
     "static/media/teeth.png": "/blue-golden-doctor-main/static/media/teeth.9fc58af848ae66bc90e0.png",
@@ -34,12 +34,12 @@
     "static/media/rescurve2.svg": "/blue-golden-doctor-main/static/media/rescurve2.ea7171dfdbdb9ca930c25c182c354982.svg",
     "static/media/pinkstar.svg": "/blue-golden-doctor-main/static/media/pinkstar.47ad30f7a413336dc5895514a9f80273.svg",
     "static/media/res_curves.svg": "/blue-golden-doctor-main/static/media/res_curves.2b493f8893a61133201d756b34389072.svg",
-    "main.4cd761ec.css.map": "/blue-golden-doctor-main/static/css/main.4cd761ec.css.map",
+    "main.900e4c1c.css.map": "/blue-golden-doctor-main/static/css/main.900e4c1c.css.map",
     "main.ecf588d6.js.map": "/blue-golden-doctor-main/static/js/main.ecf588d6.js.map",
     "592.eee76cb3.chunk.js.map": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cd761ec.css",
+    "static/css/main.900e4c1c.css",
     "static/js/main.ecf588d6.js"
   ]
 }
