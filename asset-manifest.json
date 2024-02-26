@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blue-golden-doctor-main/static/css/main.145c0d7f.css",
-    "main.js": "/blue-golden-doctor-main/static/js/main.935f7030.js",
+    "main.css": "/blue-golden-doctor-main/static/css/main.825131d2.css",
+    "main.js": "/blue-golden-doctor-main/static/js/main.8d8f61a3.js",
     "static/js/592.eee76cb3.chunk.js": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js",
     "static/media/invoiceprofile.svg": "/blue-golden-doctor-main/static/media/invoiceprofile.954cdc2c0d07eed7713249077b5a812b.svg",
     "static/media/teeth.png": "/blue-golden-doctor-main/static/media/teeth.9fc58af848ae66bc90e0.png",
@@ -25,7 +25,6 @@
     "static/media/cash.svg": "/blue-golden-doctor-main/static/media/cash.0fd6228f2899b5120490b40c9f033021.svg",
     "static/media/formimage2.png": "/blue-golden-doctor-main/static/media/formimage2.0109c2e01e609d42588b.png",
     "static/media/Wallet.svg": "/blue-golden-doctor-main/static/media/Wallet.2e72a784267b6bd384f77d879182c13e.svg",
-    "static/media/dentistone.svg": "/blue-golden-doctor-main/static/media/dentistone.5143c261c8f83bbae780ed0202a1eee7.svg",
     "static/media/reviewimg.svg": "/blue-golden-doctor-main/static/media/reviewimg.5143c261c8f83bbae780ed0202a1eee7.svg",
     "static/media/abouttwo.svg": "/blue-golden-doctor-main/static/media/abouttwo.4a21b08c372c0b05865d8c11a12ca0ef.svg",
     "static/media/dentisttwo.svg": "/blue-golden-doctor-main/static/media/dentisttwo.45e7a8588ffa03f6e34859d11dfb5a74.svg",
@@ -48,15 +47,15 @@
     "index.html": "/blue-golden-doctor-main/index.html",
     "static/media/curves.svg": "/blue-golden-doctor-main/static/media/curves.0ba59a96603ffd29fff3eaf61ffcd47f.svg",
     "static/media/rescurve2.svg": "/blue-golden-doctor-main/static/media/rescurve2.ea7171dfdbdb9ca930c25c182c354982.svg",
-    "static/media/layer.svg": "/blue-golden-doctor-main/static/media/layer.2b0381577788db242c3f7dfc0b2b52af.svg",
+    "static/media/layer.svg": "/blue-golden-doctor-main/static/media/layer.2b0381577788db242c3f.svg",
     "static/media/pinkstar.svg": "/blue-golden-doctor-main/static/media/pinkstar.47ad30f7a413336dc5895514a9f80273.svg",
     "static/media/res_curves.svg": "/blue-golden-doctor-main/static/media/res_curves.2b493f8893a61133201d756b34389072.svg",
-    "main.145c0d7f.css.map": "/blue-golden-doctor-main/static/css/main.145c0d7f.css.map",
-    "main.935f7030.js.map": "/blue-golden-doctor-main/static/js/main.935f7030.js.map",
+    "main.825131d2.css.map": "/blue-golden-doctor-main/static/css/main.825131d2.css.map",
+    "main.8d8f61a3.js.map": "/blue-golden-doctor-main/static/js/main.8d8f61a3.js.map",
     "592.eee76cb3.chunk.js.map": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.145c0d7f.css",
-    "static/js/main.935f7030.js"
+    "static/css/main.825131d2.css",
+    "static/js/main.8d8f61a3.js"
   ]
 }
