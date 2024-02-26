@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blue-golden-doctor-main/static/css/main.0ba631fd.css",
-    "main.js": "/blue-golden-doctor-main/static/js/main.1c783927.js",
+    "main.css": "/blue-golden-doctor-main/static/css/main.145c0d7f.css",
+    "main.js": "/blue-golden-doctor-main/static/js/main.935f7030.js",
     "static/js/592.eee76cb3.chunk.js": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js",
     "static/media/invoiceprofile.svg": "/blue-golden-doctor-main/static/media/invoiceprofile.954cdc2c0d07eed7713249077b5a812b.svg",
     "static/media/teeth.png": "/blue-golden-doctor-main/static/media/teeth.9fc58af848ae66bc90e0.png",
@@ -18,7 +18,6 @@
     "static/media/dental.svg": "/blue-golden-doctor-main/static/media/dental.b5097aa64eb21cefbc7f5e407f6ab793.svg",
     "static/media/medicine.svg": "/blue-golden-doctor-main/static/media/medicine.0a1b30f6aa0a45f061a9775558bce436.svg",
     "static/media/teen.png": "/blue-golden-doctor-main/static/media/teen.5101b9faa927f63fbbd5.png",
-    "static/media/boy.svg": "/blue-golden-doctor-main/static/media/boy.6306fb72acb0db7bd9995e1d33914ebb.svg",
     "static/media/adult.png": "/blue-golden-doctor-main/static/media/adult.73b8513677b6278f3c93.png",
     "static/media/kid.png": "/blue-golden-doctor-main/static/media/kid.53f207e20a0ff1526f38.png",
     "static/media/header.svg": "/blue-golden-doctor-main/static/media/header.ba6ff5ce2224df28cc0815432f86819b.svg",
@@ -33,6 +32,7 @@
     "static/media/aboutone.svg": "/blue-golden-doctor-main/static/media/aboutone.b93a0ef6198d467eabd8ddf33eef4df0.svg",
     "static/media/availlogo.png": "/blue-golden-doctor-main/static/media/availlogo.f76ad16fa0a9d0ff3c68.png",
     "static/media/aboutfour.svg": "/blue-golden-doctor-main/static/media/aboutfour.9bdf24e0f70093b7c179d35f5fdc68ce.svg",
+    "static/media/boy.png": "/blue-golden-doctor-main/static/media/boy.5e413168752cca84ff13.png",
     "static/media/otherpayment.png": "/blue-golden-doctor-main/static/media/otherpayment.db3ec5cbe73e2f6699dc.png",
     "static/media/aboutthree.svg": "/blue-golden-doctor-main/static/media/aboutthree.8057cd69a12328f0887cb63a23c505f2.svg",
     "static/media/applestore.png": "/blue-golden-doctor-main/static/media/applestore.431d7bf33e491623ce9b.png",
@@ -51,12 +51,12 @@
     "static/media/layer.svg": "/blue-golden-doctor-main/static/media/layer.2b0381577788db242c3f7dfc0b2b52af.svg",
     "static/media/pinkstar.svg": "/blue-golden-doctor-main/static/media/pinkstar.47ad30f7a413336dc5895514a9f80273.svg",
     "static/media/res_curves.svg": "/blue-golden-doctor-main/static/media/res_curves.2b493f8893a61133201d756b34389072.svg",
-    "main.0ba631fd.css.map": "/blue-golden-doctor-main/static/css/main.0ba631fd.css.map",
-    "main.1c783927.js.map": "/blue-golden-doctor-main/static/js/main.1c783927.js.map",
+    "main.145c0d7f.css.map": "/blue-golden-doctor-main/static/css/main.145c0d7f.css.map",
+    "main.935f7030.js.map": "/blue-golden-doctor-main/static/js/main.935f7030.js.map",
     "592.eee76cb3.chunk.js.map": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba631fd.css",
-    "static/js/main.1c783927.js"
+    "static/css/main.145c0d7f.css",
+    "static/js/main.935f7030.js"
   ]
 }
