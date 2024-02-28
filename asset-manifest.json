@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/blue-golden-doctor-main/static/css/main.7f78c213.css",
-    "main.js": "/blue-golden-doctor-main/static/js/main.343dfb28.js",
+    "main.css": "/blue-golden-doctor-main/static/css/main.9fe4107e.css",
+    "main.js": "/blue-golden-doctor-main/static/js/main.fed59c8e.js",
     "static/js/592.eee76cb3.chunk.js": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js",
-    "static/media/invoiceprofile.svg": "/blue-golden-doctor-main/static/media/invoiceprofile.954cdc2c0d07eed7713249077b5a812b.svg",
     "static/media/upi.svg": "/blue-golden-doctor-main/static/media/upi.7ac6abe02ffaaff0a804912cd2bde01a.svg",
     "static/media/cards.svg": "/blue-golden-doctor-main/static/media/cards.dad358157b3c21597563136859d19067.svg",
     "static/media/cardsresponsive.svg": "/blue-golden-doctor-main/static/media/cardsresponsive.9fb2a21e56392fb4d882064fd4a6d9af.svg",
@@ -22,6 +21,7 @@
     "static/media/boy.png": "/blue-golden-doctor-main/static/media/boy.5afe0cde5a661ada2724.png",
     "static/media/Bank.svg": "/blue-golden-doctor-main/static/media/Bank.b4e92283e4ab793e4dca900bacf6bd6d.svg",
     "static/media/cash.svg": "/blue-golden-doctor-main/static/media/cash.0fd6228f2899b5120490b40c9f033021.svg",
+    "static/media/invoiceprofile.png": "/blue-golden-doctor-main/static/media/invoiceprofile.8202c8c92cfa48d4593d.png",
     "static/media/formimage2.png": "/blue-golden-doctor-main/static/media/formimage2.0109c2e01e609d42588b.png",
     "static/media/Wallet.svg": "/blue-golden-doctor-main/static/media/Wallet.2e72a784267b6bd384f77d879182c13e.svg",
     "static/media/teethone.png": "/blue-golden-doctor-main/static/media/teethone.6f47bbb4e4dba42af214.png",
@@ -52,12 +52,12 @@
     "static/media/layer.svg": "/blue-golden-doctor-main/static/media/layer.2b0381577788db242c3f.svg",
     "static/media/pinkstar.svg": "/blue-golden-doctor-main/static/media/pinkstar.47ad30f7a413336dc5895514a9f80273.svg",
     "static/media/res_curves.svg": "/blue-golden-doctor-main/static/media/res_curves.2b493f8893a61133201d756b34389072.svg",
-    "main.7f78c213.css.map": "/blue-golden-doctor-main/static/css/main.7f78c213.css.map",
-    "main.343dfb28.js.map": "/blue-golden-doctor-main/static/js/main.343dfb28.js.map",
+    "main.9fe4107e.css.map": "/blue-golden-doctor-main/static/css/main.9fe4107e.css.map",
+    "main.fed59c8e.js.map": "/blue-golden-doctor-main/static/js/main.fed59c8e.js.map",
     "592.eee76cb3.chunk.js.map": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f78c213.css",
-    "static/js/main.343dfb28.js"
+    "static/css/main.9fe4107e.css",
+    "static/js/main.fed59c8e.js"
   ]
 }
