@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blue-golden-doctor-main/static/css/main.373fd366.css",
-    "main.js": "/blue-golden-doctor-main/static/js/main.7f0b7125.js",
+    "main.js": "/blue-golden-doctor-main/static/js/main.206cbf37.js",
     "static/js/592.eee76cb3.chunk.js": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js",
     "static/media/upi.svg": "/blue-golden-doctor-main/static/media/upi.7ac6abe02ffaaff0a804912cd2bde01a.svg",
     "static/media/cards.svg": "/blue-golden-doctor-main/static/media/cards.dad358157b3c21597563136859d19067.svg",
@@ -52,8 +52,8 @@
     "static/media/Applelogo.svg": "/blue-golden-doctor-main/static/media/Applelogo.5d0163b32af621bcbcee05d363f07b17.svg",
     "static/media/qrcode.svg": "/blue-golden-doctor-main/static/media/qrcode.9cb74b5a3e59cce7a69b6a516539668b.svg",
     "static/media/cardname.svg": "/blue-golden-doctor-main/static/media/cardname.ab2e280f0716b0ac1cb004614d94ed41.svg",
-    "static/media/background.svg": "/blue-golden-doctor-main/static/media/background.0a4048aebc8839142ba71ce4cfe61bc3.svg",
     "index.html": "/blue-golden-doctor-main/index.html",
+    "static/media/background.svg": "/blue-golden-doctor-main/static/media/background.0a4048aebc8839142ba71ce4cfe61bc3.svg",
     "static/media/cardlogo.svg": "/blue-golden-doctor-main/static/media/cardlogo.0a1fb1cef2a6a3a7515f3de4736670ac.svg",
     "static/media/curves.svg": "/blue-golden-doctor-main/static/media/curves.0ba59a96603ffd29fff3eaf61ffcd47f.svg",
     "static/media/Playstorelogo.svg": "/blue-golden-doctor-main/static/media/Playstorelogo.eff5cb298884f0aac1cca5f587ab67b6.svg",
@@ -62,11 +62,11 @@
     "static/media/pinkstar.svg": "/blue-golden-doctor-main/static/media/pinkstar.47ad30f7a413336dc5895514a9f80273.svg",
     "static/media/res_curves.svg": "/blue-golden-doctor-main/static/media/res_curves.2b493f8893a61133201d756b34389072.svg",
     "main.373fd366.css.map": "/blue-golden-doctor-main/static/css/main.373fd366.css.map",
-    "main.7f0b7125.js.map": "/blue-golden-doctor-main/static/js/main.7f0b7125.js.map",
+    "main.206cbf37.js.map": "/blue-golden-doctor-main/static/js/main.206cbf37.js.map",
     "592.eee76cb3.chunk.js.map": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.373fd366.css",
-    "static/js/main.7f0b7125.js"
+    "static/js/main.206cbf37.js"
   ]
 }
