@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/blue-golden-doctor-main/static/css/main.1bc038e2.css",
-    "main.js": "/blue-golden-doctor-main/static/js/main.e0a2a2bb.js",
+    "main.css": "/blue-golden-doctor-main/static/css/main.aa1b6dc0.css",
+    "main.js": "/blue-golden-doctor-main/static/js/main.5c962342.js",
     "static/js/592.eee76cb3.chunk.js": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js",
+    "static/media/upi.svg": "/blue-golden-doctor-main/static/media/upi.7ac6abe02ffaaff0a804912cd2bde01a.svg",
     "static/media/cards.svg": "/blue-golden-doctor-main/static/media/cards.dad358157b3c21597563136859d19067.svg",
     "static/media/cardsresponsive.svg": "/blue-golden-doctor-main/static/media/cardsresponsive.9fb2a21e56392fb4d882064fd4a6d9af.svg",
     "static/media/decay.svg": "/blue-golden-doctor-main/static/media/decay.1b2db0a130597dfab401252d41fd807d.svg",
@@ -19,8 +20,11 @@
     "static/media/header.svg": "/blue-golden-doctor-main/static/media/header.ba6ff5ce2224df28cc0815432f86819b.svg",
     "static/media/person.png": "/blue-golden-doctor-main/static/media/person.55ad00cf423071c840f3.png",
     "static/media/boy.png": "/blue-golden-doctor-main/static/media/boy.5afe0cde5a661ada2724.png",
+    "static/media/Bank.svg": "/blue-golden-doctor-main/static/media/Bank.b4e92283e4ab793e4dca900bacf6bd6d.svg",
+    "static/media/cash.svg": "/blue-golden-doctor-main/static/media/cash.0fd6228f2899b5120490b40c9f033021.svg",
     "static/media/choosecity.png": "/blue-golden-doctor-main/static/media/choosecity.b0c6d1b61786fdc9a0b8.png",
     "static/media/invoiceprofile.png": "/blue-golden-doctor-main/static/media/invoiceprofile.8202c8c92cfa48d4593d.png",
+    "static/media/Wallet.svg": "/blue-golden-doctor-main/static/media/Wallet.2e72a784267b6bd384f77d879182c13e.svg",
     "static/media/teethone.png": "/blue-golden-doctor-main/static/media/teethone.6f47bbb4e4dba42af214.png",
     "static/media/medicine.png": "/blue-golden-doctor-main/static/media/medicine.5d0d5057282ab5c303f2.png",
     "static/media/reviewimg.svg": "/blue-golden-doctor-main/static/media/reviewimg.5143c261c8f83bbae780ed0202a1eee7.svg",
@@ -46,20 +50,22 @@
     "static/media/ftr_logo.svg": "/blue-golden-doctor-main/static/media/ftr_logo.37777477179161a40d619222a7726d20.svg",
     "static/media/Applelogo.svg": "/blue-golden-doctor-main/static/media/Applelogo.5d0163b32af621bcbcee05d363f07b17.svg",
     "static/media/qrcode.svg": "/blue-golden-doctor-main/static/media/qrcode.9cb74b5a3e59cce7a69b6a516539668b.svg",
+    "static/media/cardname.svg": "/blue-golden-doctor-main/static/media/cardname.ab2e280f0716b0ac1cb004614d94ed41.svg",
     "index.html": "/blue-golden-doctor-main/index.html",
     "static/media/background.svg": "/blue-golden-doctor-main/static/media/background.0a4048aebc8839142ba71ce4cfe61bc3.svg",
+    "static/media/cardlogo.svg": "/blue-golden-doctor-main/static/media/cardlogo.0a1fb1cef2a6a3a7515f3de4736670ac.svg",
     "static/media/curves.svg": "/blue-golden-doctor-main/static/media/curves.0ba59a96603ffd29fff3eaf61ffcd47f.svg",
     "static/media/Playstorelogo.svg": "/blue-golden-doctor-main/static/media/Playstorelogo.eff5cb298884f0aac1cca5f587ab67b6.svg",
     "static/media/rescurve2.svg": "/blue-golden-doctor-main/static/media/rescurve2.ea7171dfdbdb9ca930c25c182c354982.svg",
     "static/media/layer.svg": "/blue-golden-doctor-main/static/media/layer.2b0381577788db242c3f.svg",
     "static/media/pinkstar.svg": "/blue-golden-doctor-main/static/media/pinkstar.47ad30f7a413336dc5895514a9f80273.svg",
     "static/media/res_curves.svg": "/blue-golden-doctor-main/static/media/res_curves.2b493f8893a61133201d756b34389072.svg",
-    "main.1bc038e2.css.map": "/blue-golden-doctor-main/static/css/main.1bc038e2.css.map",
-    "main.e0a2a2bb.js.map": "/blue-golden-doctor-main/static/js/main.e0a2a2bb.js.map",
+    "main.aa1b6dc0.css.map": "/blue-golden-doctor-main/static/css/main.aa1b6dc0.css.map",
+    "main.5c962342.js.map": "/blue-golden-doctor-main/static/js/main.5c962342.js.map",
     "592.eee76cb3.chunk.js.map": "/blue-golden-doctor-main/static/js/592.eee76cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bc038e2.css",
-    "static/js/main.e0a2a2bb.js"
+    "static/css/main.aa1b6dc0.css",
+    "static/js/main.5c962342.js"
   ]
 }
